@@ -1,4 +1,4 @@
-.first-class, .second-class{
+.first-class{
 background-color: rgb(255, 182, 193);
 font-family: Verdana, "DejaVu Sans", sans-serif;
 }
@@ -15,6 +15,6 @@ font-size: 36px;
 
 #second-id{
     background-color: rgb(144, 238, 144);
-    font-size: 24px;
+    /* font-size: 24px; */
     font-weight: bold;
 }
